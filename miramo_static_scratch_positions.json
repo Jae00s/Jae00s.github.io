@@ -1,0 +1,242 @@
+[
+    {
+        "title": "sensor_14",
+        "building_name": "\uacfc\ud559\uae30\uc220\uad00",
+        "building_id": "0-14",
+        "latlng": {"x":37.585251, "y": 127.057516},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_12",
+        "building_name": "학생회관",
+        "building_id": "0-12",
+        "latlng": {"x":37.583749, "y": 127.059991},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_33",
+        "building_name": "미래관",
+        "building_id": "0-33",
+        "latlng": {"x":37.584673, "y": 127.056935},
+        "dust": 10,
+        "radon": 0  
+    },
+    {
+        "title": "sensor_37",
+        "building_name": "100주년기념관",
+        "building_id": "0-37",
+        "latlng": {"x":37.583963, "y": 127.055706},
+        "dust": 10,
+        "radon": 0  
+    },
+    {
+        "title": "sensor_21",
+        "building_name": "중앙도서관",
+        "building_id": "0-21",
+        "latlng": {"x":37.584805, "y": 127.062063},
+        "dust": 10,
+        "radon": 0  
+    },
+    {
+        "title": "sensor_3",
+        "building_name": "건설공학관",
+        "building_id": "0-03",
+        "latlng": {"x":37.583772, "y": 127.057911},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_16",
+        "building_name": "조형관",
+        "building_id": "0-16",
+        "latlng": {"x":37.584102, "y": 127.056247},
+        "dust": 10,
+        "radon": 0
+    },
+    {
+        "title": "sensor_1",
+        "building_name": "전농관",
+        "building_id": "0-01",
+        "latlng": {"x":37.58359002483716, "y": 127.05656823605136},
+        "dust": 1,
+        "radon": 1
+    },
+    {
+        "title": "sensor_4",
+        "building_name": "창공관",
+        "building_id": "0-04",
+        "latlng": {"x": 37.5846081091071, "y": 127.06050027917159},
+        "dust": 4,
+        "radon": 4
+    },
+    {
+        "title": "sensor_5",
+        "building_name": "인문학관",
+        "building_id": "0-05",
+        "latlng": {"x": 37.58377441696898, "y": 127.0611012043998},
+        "dust": 5,
+        "radon": 5
+    },
+    {
+        "title": "sensor_6",
+        "building_name": "배봉관",
+        "building_id": "0-06",
+        "latlng": {"x": 37.584688036859696, "y": 127.05965424057163},
+        "dust": 5,
+        "radon": 5
+    },
+    {
+        "title": "sensor_7",
+        "building_name": "대학본부",
+        "building_id": "0-07",
+        "latlng": {"x": 37.58480489323144, "y": 127.05769578251898},
+        "dust": 5,
+        "radon": 5
+    },
+    {
+        "title": "sensor_8",
+        "building_name": "자연과학관",
+        "building_id": "0-08",
+        "latlng": {"x":37.582556159124756, "y": 127.05922244103358},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_10",
+        "building_name": "경농관",
+        "building_id": "0-10",
+        "latlng": {"x":37.58292459281613, "y": 127.05661595921843},
+        "dust": 10,
+        "radon": 0 
+    }, 
+    {
+        "title": "sensor_11",
+        "building_name": "제 2공학관",
+        "building_id": "0-11",
+        "latlng": {"x":37.58476817598057, "y": 127.05906568856561},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_13",
+        "building_name": "학군단",
+        "building_id": "0-13",
+        "latlng": {"x":37.58497453937198, "y": 127.06076978296012},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_15",
+        "building_name": "21세기관",
+        "building_id": "0-15",
+        "latlng": {"x": 37.58306552810806, "y": 127.05860582202621},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_18",
+        "building_name": "자작마루",
+        "building_id": "0-18",
+        "latlng": {"x": 37.58288353705969, "y": 127.05767165673613},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_19",
+        "building_name": "정보기술관",
+        "building_id": "0-19",
+        "latlng": {"x": 37.58287073288426, "y": 127.06074542986688},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_20",
+        "building_name": "법학관",
+        "building_id": "0-20",
+        "latlng": {"x": 37.58208896108726, "y": 127.05653324650964},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_22",
+        "building_name": "생활관",
+        "building_id": "0-22",
+        "latlng": {"x": 37.58491910441461, "y": 127.06338507241027},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_23",
+        "building_name": "건축구조실험동",
+        "building_id": "0-23",
+        "latlng": {"x": 37.58234510647295, "y": 127.05784955351626},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_24",
+        "building_name": "토목구조실험동",
+        "building_id": "0-24",
+        "latlng": {"x": 37.58218983457335, "y": 37.58218983457335},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_25",
+        "building_name": "미디어관",
+        "building_id": "0-25",
+        "latlng": {"x": 37.5825782318431, "y": 127.06011685228289},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_27",
+        "building_name": "대강당",
+        "building_id": "0-27",
+        "latlng": {"x": 37.5830829761496, "y": 127.05974647849325},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_29",
+        "building_name": "박물관",
+        "building_id": "0-29",
+        "latlng": {"x": 37.58318572694707, "y": 127.05693599025933},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_32",
+        "building_name": "웰니스센터",
+        "building_id": "0-32",
+        "latlng": {"x": 37.58237503859573, "y": 127.05650798966116},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_34",
+        "building_name": "국제학사",
+        "building_id": "0-34",
+        "latlng": {"x": 37.58438544061942, "y": 127.06305912065989},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_35",
+        "building_name": "음악관",
+        "building_id": "0-35",
+        "latlng": {"x": 37.583495973851186, "y": 127.06256305131771},
+        "dust": 10,
+        "radon": 0 
+    },
+    {
+        "title": "sensor_38",
+        "building_name": "스마트연구동",
+        "building_id": "0-38",
+        "latlng": {"x": 37.58638884191363, "y": 127.05676010810954},
+        "dust": 10,
+        "radon": 0 
+    }            
+]
